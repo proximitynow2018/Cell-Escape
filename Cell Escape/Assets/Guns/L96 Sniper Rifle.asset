@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b63de9f9329d949a06949ca2f3f542, type: 3}
+  m_Name: L96 Sniper Rifle
+  m_EditorClassIdentifier: 
+  name: L96 Sniper Rifle
+  model: {fileID: 100000, guid: d78fce1f586605a47ab057832f697a8d, type: 3}
+  fireRate: 2
+  ammoCapacity: 10
+  damage: 30
+  range: 100
